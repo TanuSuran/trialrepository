@@ -1,3 +1,0 @@
-changes to be made here!!!!
-this is version 1
-here i m going to made some changes ,,,just to check how to commit a file by skipping stanging area!
